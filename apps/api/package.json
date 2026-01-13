@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "@prisma/client": "^6.0.0",
+    "@turbodocx/html-to-docx": "^1.18.1",
     "adm-zip": "^0.5.16",
     "bcryptjs": "^2.4.3",
     "bidi-js": "^1.0.3",

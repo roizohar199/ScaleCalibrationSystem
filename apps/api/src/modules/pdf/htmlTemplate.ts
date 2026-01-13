@@ -39,33 +39,37 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
     console.log(`[buildCertificateHtml] Using system fonts: ${fontFamily}`);
   }
 
-  const blocksHtml = model.blocks
-    .map(
-      (b) => `
-      <div class="row">
-        <div class="label">${escapeHtml(b.label)}</div>
-        <div class="value">${escapeHtml(b.value)}</div>
-      </div>
-    `
-    )
-    .join("");
+  const blocksTableHtml = model.blocks.length > 0 ? `
+    <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
+      <tbody>
+        ${model.blocks.map((b) => `
+          <tr>
+            <td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top; white-space: pre-wrap; word-break: break-word;">${escapeHtml(b.value)}</td>
+            <td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">${escapeHtml(b.label)}</td>
+          </tr>
+        `).join("")}
+      </tbody>
+    </table>
+  ` : "";
 
   const tablesHtml = (model.tables ?? [])
     .map((t) => {
-      const head = t.columns.map((c) => `<th>${escapeHtml(c)}</th>`).join("");
+      const head = t.columns
+        .map((c) => `<th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700;">${escapeHtml(c)}</th>`)
+        .join("");
       const body = t.rows
         .map(
           (r) =>
             `<tr>${r
-              .map((cell) => `<td>${escapeHtml(String(cell))}</td>`)
+              .map((cell) => `<td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(String(cell))}</td>`)
               .join("")}</tr>`
         )
         .join("");
 
       return `
         <div class="section">
-          <div class="sectionTitle">${escapeHtml(t.title)}</div>
-          <table>
+          <div class="sectionTitle" style="font-size: 14px; font-weight: 700; margin-bottom: 12px; padding: 8px 12px; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 6px; text-align: right; direction: rtl; unicode-bidi: embed;">${escapeHtml(t.title)}</div>
+          <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
             <thead><tr>${head}</tr></thead>
             <tbody>${body}</tbody>
           </table>
@@ -97,7 +101,7 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
     body {
       font-family: ${fontFamily};
       direction: rtl;
-      unicode-bidi: plaintext;
+      unicode-bidi: embed;
       margin: 0;
       padding: 24px;
       color: #111;
@@ -105,6 +109,7 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
       line-height: 1.35;
       -webkit-font-smoothing: antialiased;
       text-rendering: geometricPrecision;
+      text-align: right;
     }
 
     .header {
@@ -172,6 +177,7 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
       border-collapse: collapse;
       font-variant-numeric: tabular-nums;
       margin-top: 8px;
+      direction: rtl;
     }
 
     th, td {
@@ -197,21 +203,23 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
   <div class="header">
     <div class="title">${escapeHtml(model.title)}</div>
 
-    <div class="meta">
-      <div class="metaItem"><span class="metaKey">מספר תעודה</span><span class="metaVal">${escapeHtml(model.certificateNo)}</span></div>
-      <div class="metaItem"><span class="metaKey">תאריך</span><span class="metaVal">${escapeHtml(model.date)}</span></div>
-      <div class="metaItem"><span class="metaKey">לקוח</span><span class="metaVal">${escapeHtml(model.customerName)}</span></div>
-      <div class="metaItem"><span class="metaKey">מס׳ לקוח</span><span class="metaVal">${escapeHtml(model.customerId ?? "-")}</span></div>
-      <div class="metaItem"><span class="metaKey">יצרן</span><span class="metaVal">${escapeHtml(model.scaleManufacturer ?? "-")}</span></div>
-      <div class="metaItem"><span class="metaKey">דגם</span><span class="metaVal">${escapeHtml(model.scaleModel ?? "-")}</span></div>
-      <div class="metaItem"><span class="metaKey">סידורי</span><span class="metaVal">${escapeHtml(model.scaleSerial ?? "-")}</span></div>
-      <div class="metaItem"><span class="metaKey">מיקום</span><span class="metaVal">${escapeHtml(model.location ?? "-")}</span></div>
-    </div>
+    <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
+      <tbody>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.certificateNo)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">מספר תעודה</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.date)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">תאריך</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerName)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">לקוח</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerId ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מס׳ לקוח</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleManufacturer ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">יצרן</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleModel ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">דגם</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleSerial ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">סידורי</td></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.location ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מיקום</td></tr>
+      </tbody>
+    </table>
   </div>
 
   <div class="section">
-    <div class="sectionTitle">פרטי בדיקה</div>
-    ${blocksHtml}
+    <div class="sectionTitle" style="font-size: 14px; font-weight: 700; margin-bottom: 12px; padding: 8px 12px; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 6px; text-align: right; direction: rtl; unicode-bidi: embed;">פרטי בדיקה</div>
+    ${blocksTableHtml}
   </div>
 
   ${tablesHtml}

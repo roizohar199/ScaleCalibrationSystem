@@ -159,7 +159,7 @@ export default function Certificates() {
     return 'valid';
   };
 
-  const handleDownloadPDF = async (certificateId: string) => {
+  const handleDownloadPDF = async (certificateId: string, certificateNumber?: string) => {
     try {
       const response = await api.get(`/certificates/${certificateId}/download-pdf`, {
         responseType: 'blob'
@@ -167,7 +167,7 @@ export default function Certificates() {
       const url = window.URL.createObjectURL(new Blob([response.data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `תעודה_${certificateId}.pdf`);
+      link.setAttribute('download', `${certificateNumber || certificateId}.pdf`);
       document.body.appendChild(link);
       link.click();
       link.remove();
@@ -178,7 +178,7 @@ export default function Certificates() {
     }
   };
 
-  const handleDownloadDOCX = async (certificateId: string) => {
+  const handleDownloadDOCX = async (certificateId: string, certificateNumber?: string) => {
     try {
       const response = await api.get(`/certificates/${certificateId}/download-docx`, {
         responseType: 'blob'
@@ -186,7 +186,7 @@ export default function Certificates() {
       const url = window.URL.createObjectURL(new Blob([response.data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `תעודה_${certificateId}.docx`);
+      link.setAttribute('download', `${certificateNumber || certificateId}.docx`);
       document.body.appendChild(link);
       link.click();
       link.remove();
@@ -197,7 +197,7 @@ export default function Certificates() {
     }
   };
 
-  const handlePrint = async (certificateId: string) => {
+  const handlePrint = async (certificateId: string, certificateNumber?: string) => {
     try {
       const response = await api.get(`/certificates/${certificateId}/print`, {
         responseType: 'blob'
@@ -212,7 +212,7 @@ export default function Certificates() {
         // Fallback: download if popup blocked
         const link = document.createElement('a');
         link.href = url;
-        link.setAttribute('download', `תעודה_${certificateId}.pdf`);
+        link.setAttribute('download', `${certificateNumber || certificateId}.pdf`);
         document.body.appendChild(link);
         link.click();
         link.remove();
@@ -352,7 +352,7 @@ export default function Certificates() {
             size="sm" 
             variant="ghost" 
             className="text-red-600 hover:text-red-700 hover:bg-red-50"
-            onClick={() => handleDownloadPDF(value)}
+            onClick={() => handleDownloadPDF(value, row.certificate_number)}
           >
             <Download className="h-4 w-4 ml-1" />
             PDF
@@ -361,7 +361,7 @@ export default function Certificates() {
             size="sm" 
             variant="ghost" 
             className="text-green-600 hover:text-green-700 hover:bg-green-50"
-            onClick={() => handleDownloadDOCX(value)}
+            onClick={() => handleDownloadDOCX(value, row.certificate_number)}
           >
             <FileDown className="h-4 w-4 ml-1" />
             DOCX
@@ -379,7 +379,7 @@ export default function Certificates() {
             size="sm" 
             variant="ghost" 
             className="text-purple-600 hover:text-purple-700 hover:bg-purple-50"
-            onClick={() => handlePrint(value)}
+            onClick={() => handlePrint(value, row.certificate_number)}
           >
             <Printer className="h-4 w-4 ml-1" />
             הדפס
