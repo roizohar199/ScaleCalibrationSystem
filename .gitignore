@@ -35,3 +35,5 @@ test-results/
 # Certificates - calibration certificates should not be in git
 storage/certificates/
 certificates/
+apps/api/storage/certificates/
+**/storage/certificates/
