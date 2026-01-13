@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@calibration/api": "file:../.."
+  }
+}

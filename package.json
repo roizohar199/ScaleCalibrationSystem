@@ -1,0 +1,28 @@
+{
+  "name": "calibration-system",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently --kill-others-on-fail \"npm:dev:db\" \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:db": "powershell -ExecutionPolicy Bypass -File ./scripts/start-db.ps1",
+    "dev:db:simple": "docker compose up -d",
+    "dev:api": "npm --prefix apps/api run dev",
+    "dev:web": "wait-on http://127.0.0.1:4010/api/health && npm --prefix apps/web run dev",
+    "db:down": "docker compose down",
+    "db:clear": "npm --prefix apps/api run db:clear",
+    "migrate": "npm --prefix apps/api run prisma:migrate",
+    "seed": "npm --prefix apps/api run seed",
+    "seed:hub": "npm --prefix apps/api run seed:hub",
+    "ensure-docker": "powershell -ExecutionPolicy Bypass -File ./scripts/ensure-docker.ps1"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.7",
+    "concurrently": "^9.0.0",
+    "wait-on": "^9.0.3"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "docx": "^9.5.1",
+    "mammoth": "^1.11.0"
+  }
+}

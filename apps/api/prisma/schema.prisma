@@ -1,0 +1,247 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  TECHNICIAN
+  OFFICE
+  ADMIN
+}
+
+enum UserStatus {
+  PENDING_APPROVAL
+  APPROVED
+  REJECTED
+}
+
+enum CalibrationStatus {
+  DRAFT
+  SUBMITTED
+  IN_REVIEW
+  RETURNED_FOR_FIX
+  APPROVED
+  CERTIFICATE_ISSUED
+  REJECTED
+  IMPORTED
+}
+
+
+enum TestType {
+  ACCURACY
+  ECCENTRICITY
+  REPEATABILITY
+  SENSITIVITY
+  TIME
+  TARE
+}
+
+model User {
+  id        String     @id @default(cuid())
+  email     String     @unique
+  name      String
+  role      Role       @default(TECHNICIAN)
+  password  String     // MVP: plaintext hash placeholder (להחליף ל-bcrypt בשלב הבא)
+  status    UserStatus @default(APPROVED) // PENDING_APPROVAL, APPROVED, REJECTED
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  calibrations Calibration[] @relation("TechnicianCalibrations")
+  approvals    Approval[]
+  auditLogs    AuditLog[]
+
+  @@index([status])
+  @@map("users")
+}
+
+model Customer {
+  id         String   @id @default(cuid())
+  name       String
+  taxId      String   // ח.פ/ע.מ
+  customerNo String?
+  address    String
+  contact    String
+  phone      String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  sites      Site[]
+  scales     Scale[]
+  calibrations Calibration[]
+  @@index([name])
+  @@index([customerNo])
+  @@index([taxId])
+  @@map("customers")
+}
+
+model Site {
+  id         String   @id @default(cuid())
+  customerId String
+  name       String   // לדוגמה: "מחסן הרכבות", "קומה ב'"
+  address    String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  customer   Customer @relation(fields: [customerId], references: [id])
+  scales     Scale[]
+  calibrations Calibration[]
+  @@index([customerId])
+  @@map("sites")
+}
+
+model ScaleModel {
+  id              String   @id @default(cuid())
+  manufacturer    String
+  modelName       String
+  maxCapacity     Decimal
+  unit            String   // "g" / "kg" / "mg"
+  d               Decimal  // actual division
+  e               Decimal  // calibration division
+  accuracyClass   String   // "I" / "II" / "III"
+  isActive        Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  scales          Scale[]
+
+  @@index([manufacturer, modelName])
+  @@index([maxCapacity, unit, d, e, accuracyClass])
+  @@map("scale_models")
+}
+
+model Scale {
+  id            String   @id @default(cuid())
+  customerId    String?
+  siteId        String?
+  modelId       String?  // קישור ל-ScaleModel
+  manufacturer  String?
+  deviceType    String?
+  modelName     String?
+  serialMfg     String?
+  serialInternal String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  customer      Customer? @relation(fields: [customerId], references: [id])
+  site          Site?     @relation(fields: [siteId], references: [id])
+  model         ScaleModel? @relation(fields: [modelId], references: [id])
+  calibrations  Calibration[]
+  documentImports DocumentImport[]
+
+  @@index([serialMfg])
+  @@index([serialInternal])
+  @@index([modelId])
+  @@map("scales")
+}
+
+
+model Calibration {
+  id            String            @id @default(cuid())
+  reportNo      String?
+  status        CalibrationStatus @default(DRAFT)
+
+  customerId    String?
+  siteId        String?
+  scaleId       String?
+
+  technicianId  String?
+  testDate      DateTime?
+  nextDueDate   DateTime?
+
+  visualCheck   String?
+  overallStatus String?   // "שמיש" וכו'
+  notes         String?
+
+  // measurements saved as JSON for MVP (tables)
+  measurementsJson Json?
+
+  // קישור למסמך מיובא (אם קיים) - one-to-many (מסמך אחד יכול ליצור כמה כיולים)
+  importedFromDocumentId String?
+
+  submittedAt   DateTime?
+  approvedAt    DateTime?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  customer      Customer? @relation(fields: [customerId], references: [id])
+  site          Site?     @relation(fields: [siteId], references: [id])
+  scale         Scale?    @relation(fields: [scaleId], references: [id])
+
+  technician    User? @relation("TechnicianCalibrations", fields: [technicianId], references: [id])
+  importedFrom  DocumentImport? @relation(fields: [importedFromDocumentId], references: [id])
+
+  approvals     Approval[]
+  certificate   Certificate?
+
+  @@index([status])
+  @@index([testDate])
+  @@index([importedFromDocumentId])
+  @@map("calibrations")
+}
+
+model Approval {
+  id            String   @id @default(cuid())
+  calibrationId String
+  approvedById  String
+  approvedAt    DateTime @default(now())
+  dataHash      String   // hash of the final data snapshot
+  comment       String?
+
+  calibration   Calibration @relation(fields: [calibrationId], references: [id])
+  approvedBy    User        @relation(fields: [approvedById], references: [id])
+
+  @@unique([calibrationId])
+  @@map("approvals")
+}
+
+model Certificate {
+  id            String   @id @default(cuid())
+  calibrationId String   @unique
+  certificateNo String   @unique
+  issuedAt      DateTime @default(now())
+  pdfPath       String
+
+  calibration   Calibration @relation(fields: [calibrationId], references: [id])
+  @@map("certificates")
+}
+
+model AuditLog {
+  id          String   @id @default(cuid())
+  entity      String
+  entityId    String
+  field       String?
+  oldValue    String?
+  newValue    String?
+  changedById String?
+  reason      String?
+  createdAt   DateTime @default(now())
+
+  changedBy   User? @relation(fields: [changedById], references: [id])
+
+  @@index([entity, entityId])
+  @@index([createdAt])
+  @@map("audit_logs")
+}
+
+model DocumentImport {
+  id            String   @id @default(cuid())
+  fileName      String
+  filePath      String?
+  importedAt    DateTime @default(now())
+  status        String   // "SUCCESS" | "FAILED" | "PENDING"
+  errorMessage  String?
+  
+  scaleId       String?
+
+  scale         Scale?    @relation(fields: [scaleId], references: [id])
+  calibrations  Calibration[]
+
+  @@index([status])
+  @@index([importedAt])
+  @@index([scaleId])
+  @@map("document_imports")
+}

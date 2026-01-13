@@ -1,0 +1,6787 @@
+[
+  {
+    "fileName": "��� ����� 24-1156 �'���� ����� ���.docx",
+    "customerName": "ג'וליה מעדני בשר",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0000 ������ ��� ��.docx",
+    "customerName": "תעשיות בית - אל בע\"מ",
+    "customerNo": "19511",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0001 ��.�'�.��� ����.docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "address": "חוצות היוצר 29 אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0002 ������� �����.docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "12845",
+    "address": "מישור אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0003 ������ ��� ��.docx",
+    "customerName": "תעשיות בית - אל בע\"מ",
+    "customerNo": "19511",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0004 ���� ����.docx",
+    "customerName": "אייר פלסט בע\"מ",
+    "customerNo": "514024231",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0005 ���� ����.docx",
+    "customerName": "אייר פלסט בע\"מ",
+    "customerNo": "514024231",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0006 ������.docx",
+    "customerName": "פיברטק תעשיות צנרת וכימיקלים בע\"מ",
+    "customerNo": "510931389",
+    "address": "קרני שומרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0007 ������.docx",
+    "customerName": "פיברטק תעשיות צנרת וכימיקלים בע\"מ",
+    "customerNo": "510931389",
+    "address": "קרני שומרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0008 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0009 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0010 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0011 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0012 ��� ���.docx",
+    "customerName": "קיו טאצ ' שביט 2011 בע\"מ",
+    "customerNo": "514614791",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0013 ���� ����������.docx",
+    "customerName": "אסתר טכנולוגיות בע\"מ",
+    "customerNo": "511760191",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0014 ���� ����������.docx",
+    "customerName": "אסתר טכנולוגיות בע\"מ",
+    "customerNo": "511760191",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0015 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "נחל שניר 10 יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0016 ����.docx",
+    "customerName": "קבוצת סידב בע\"מ",
+    "customerNo": "16218",
+    "address": "הוד השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0017 ����.docx",
+    "customerName": "קבוצת סידב בע\"מ",
+    "customerNo": "16218",
+    "address": "הוד השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0018 ����.docx",
+    "customerName": "קבוצת סידב בע\"מ",
+    "customerNo": "16218",
+    "address": "הוד השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0019 ����.docx",
+    "customerName": "קבוצת סידב בע\"מ",
+    "customerNo": "16218",
+    "address": "הוד השרון",
+    "capacity": 3000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0020 ����� ��� ���.docx",
+    "customerName": "מנועי בית שמש בע\"מ",
+    "customerNo": "10645",
+    "address": "בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0021 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0022 ������ ��� ��.docx",
+    "customerName": "תעשיות בית - אל בע\"מ",
+    "customerNo": "19511",
+    "address": "זכרון יעקב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0023 ���� ��� ���� .docx",
+    "customerName": "טחנת קמח שלום בע\"מ",
+    "customerNo": "14210",
+    "address": "גולדן היירש 16 פתח תקווה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0024 ���� ��� ���� .docx",
+    "customerName": "טחנת קמ ח שלום בע\"מ",
+    "customerNo": "14210",
+    "address": "גולדן היירש 16 פתח תקווה",
+    "capacity": 50,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0025 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0026 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0027 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0028 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0029 ������ .docx",
+    "customerName": "איסורד בע\"מ",
+    "customerNo": "10835",
+    "address": "נחל שורק, יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0030 ������ .docx",
+    "customerName": "איסורד בע\"מ",
+    "customerNo": "10835",
+    "address": "נחל שורק, יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0031 ������ .docx",
+    "customerName": "איסורד בע\"מ",
+    "customerNo": "10835",
+    "address": "נחל שורק, יבנה",
+    "capacity": 3000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0032 ������ .docx",
+    "customerName": "איסורד בע\"מ",
+    "customerNo": "10835",
+    "address": "נחל שורק, יבנה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0033 ����� .docx",
+    "customerName": "טיירק בע\"מ",
+    "customerNo": "14250",
+    "address": "פארק תעשיות שח\"ק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0034 �� ��� .docx",
+    "customerName": "גט סאט תקשורת בע\"מ",
+    "customerNo": "11448",
+    "address": "רחובות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0035 �� ��� .docx",
+    "customerName": "גט סאט תקשורת בע\"מ",
+    "customerNo": "11448",
+    "address": "רחובות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0036 �������� .docx",
+    "customerName": "אינטרגאטה תעשיות מזון (1999) בע\"מ",
+    "address": "שדרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0037 ������ .docx",
+    "customerName": "פולוגן בע\"מ",
+    "customerNo": "513846626",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0038 ������ .docx",
+    "customerName": "פולוגן בע\"מ",
+    "customerNo": "513846626",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0039 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0040 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "11346",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0041 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0042 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0043 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0044 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0045 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0046 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0047 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0048 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0049 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0050 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0051 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0052 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0053 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0054 ���� .docx",
+    "customerName": "לורד סנדוויץ בע\"מ",
+    "customerNo": "19715",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0055 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0056 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0057 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0058 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0059 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0060 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0061 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0062 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0063 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0064 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0065 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0066 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0067 ����� ���� .docx",
+    "customerName": "כרמית מזון בע\"מ",
+    "customerNo": "516130358",
+    "address": "הענבר 10 ברקן 4482000",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0068 ���� �� ��� .docx",
+    "customerName": "בורא את הכל בע\"מ",
+    "customerNo": "516071487",
+    "address": "מושב צרופה",
+    "capacity": 50,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0069 ���� �� ��� .docx",
+    "customerName": "בורא את הכל בע\"מ",
+    "customerNo": "516071487",
+    "address": "מושב צרופה",
+    "capacity": 71,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0070 ��� ���� .docx",
+    "customerName": "גמל מפעלים לאופני השחזה שריד בע\"מ",
+    "customerNo": "19317",
+    "address": "עין שריד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0071 ���� ��� .docx",
+    "customerName": "עשבי קדם בע\"מ",
+    "customerNo": "512329681",
+    "address": "כרמל",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0072 ����� .docx",
+    "customerName": "רינקם קומפני (ישראל)בע\"מ",
+    "customerNo": "11952",
+    "address": "מועצה מקומית נאות חובב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0073 ���� ������� .docx",
+    "customerName": "הבית לאזרחים ותיקים",
+    "customerNo": "540259405",
+    "address": "המעלית 2 קדימה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0074 ���� ������� .docx",
+    "customerName": "הבית לאזרחים ותיקים",
+    "customerNo": "540259405",
+    "address": "המעלית 2 קדימה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0075 ���� ������� .docx",
+    "customerName": "הבית לאזרחים ותיקים",
+    "customerNo": "540259405",
+    "address": "המעלית 2 קדימה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0076 ������� .docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0077 ��.��.�� ������� .docx",
+    "customerName": "אס. סי. אר. מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "תנובות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0078 ��.��.�� ������� .docx",
+    "customerName": "אס. סי. אר. מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "תנובות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0079 ��.��.�� ������� .docx",
+    "customerName": "אס. סי .אר. מהנדסים בע\"מ",
+    "customerNo": "1 0159",
+    "address": "המלאכה 18 נתניה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0080 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר. מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0081 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0082 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0083 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0084 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0085 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר. מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0086 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0087 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "המלאכה 18 נתניה 42138",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0088 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0089 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0090 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0091 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0092 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0093 ��.��.�� ������� .docx",
+    "customerName": "אס.סי.אר . מהנדסים בע\"מ",
+    "customerNo": "10159",
+    "address": "חדרה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0094 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0095 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0096 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0097 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0098 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0099 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0100 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0101 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0102 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0103 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0104 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0105 ��� ���� .docx",
+    "customerName": "דקו ליין בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיות ת.ד. 100 עמק חפר 38777",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0106 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0107 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0108 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0109 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0110 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0111 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0112 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0113 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0114 ��� ���� .docx",
+    "customerName": "דקו ליין ציפויים דקורטיביים בע\"מ",
+    "customerNo": "11576",
+    "address": "התלם 3 פארק תעשיה עמק חפר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0115 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0116 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0117 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0118 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0119 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "capacity": 3000,
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0120 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0121 ����� .docx",
+    "customerName": "קשמיר קרטין בע\"מ",
+    "customerNo": "515097509",
+    "address": "צוער 4 באר שבע",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0122 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0123 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0124 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0125 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0126 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0127 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0128 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0129 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0130 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0131 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0132 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0133 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0134 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0135 ����� ������� .docx",
+    "customerName": "פארמה נטורליס בע\"מ",
+    "customerNo": "12870",
+    "address": "סדן 12/4 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0136 ������ .docx",
+    "customerName": "יוניטק ישראל קיר פנל 2004 בע\"מ",
+    "customerNo": "513498436",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0137 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0138 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום ת.ד.4068 אשדוד 77521",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0139 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום ת.ד.4068 אשדוד 77521",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0140 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום ת.ד.4068 אשדוד 77521",
+    "accuracyCls": "I",
+    "testDate": "2004-11-30T22:00:00.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0141 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום",
+    "accuracyCls": "I",
+    "testDate": "2004-11-30T22:00:00.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0142 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום ת.ד.4068 אשדוד 77521",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0143 ������ .docx",
+    "customerName": "סוניגו אריזה בע\"מ",
+    "customerNo": "16035",
+    "address": "בני דרום ת.ד.4068 אשדוד 77521",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0144 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0145 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0146 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0147 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0148 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0149 ����� ���� .docx",
+    "customerName": "מעדני הטלה",
+    "customerNo": "514339985",
+    "address": "רח' הטלה והעגל, א.ת. באר טוביה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0150 ��� ���� .docx",
+    "customerName": "ש. ר. רגע בטבע בע\"מ",
+    "customerNo": "515640704",
+    "address": "מעלה אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0151 ��� ���� .docx",
+    "customerName": "ש. ר. רגע בטבע בע\"מ",
+    "customerNo": "515640704",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0152 ���� ������ .docx",
+    "customerName": "כזית מהדרין בע\"מ",
+    "customerNo": "515556140",
+    "address": "מעלה אדומים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0153 ���� ������ .docx",
+    "customerName": "כזית מהדרין בע\"מ",
+    "customerNo": "515556140",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0154 ���� ������ .docx",
+    "customerName": "כזית מהדרין בע\"מ",
+    "customerNo": "515556140",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0155 �. ��� .docx",
+    "customerName": "א. הקר 2009 גלאט למהדרין בע\"מ",
+    "customerNo": "12228",
+    "address": "בית הדפוס 23 ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0156 �. ��� .docx",
+    "customerName": "א. הקר 2009 גלאט למהדרין בע\"מ",
+    "customerNo": "12228",
+    "address": "בית הדפוס 23 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0157 ������ ��� �� .docx",
+    "customerName": "תעשיות בית - אל בע\"מ",
+    "customerNo": "19511",
+    "address": "זכרון יעקב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0158 ��. �'�. �� .docx",
+    "customerName": "בי. ג'י. אם מעבדות בע\"מ",
+    "customerNo": "10783",
+    "address": "אור יהודה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0159 ��. �'�. �� .docx",
+    "customerName": "בי. ג'י. אם מעבדות בע\"מ",
+    "customerNo": "10783",
+    "address": "אור יהודה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0160 ����� ���������� .docx",
+    "customerName": "המרכז לקולינריה ובטיחות מזון",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0161 �� ���� .docx",
+    "customerName": "רב בריח (08) תעשיות בע\"מ",
+    "customerNo": "18632",
+    "capacity": 110,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0162 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0163 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0164 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0165 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0166 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0167 ���������� .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0168 ����� .docx",
+    "customerName": "חרמון מעבדות בע\"מ",
+    "customerNo": "511152324",
+    "address": "בנימינה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0169 ��� ���������  .docx",
+    "customerName": "רות פטיפורים בע\"מ",
+    "customerNo": "18700",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0170 ��� ���������  .docx",
+    "customerName": "רות פטיפורים בע\"מ",
+    "customerNo": "18700",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0171 ������ ����  .docx",
+    "customerName": "גבינות הכפר בע\"מ",
+    "customerNo": "11092",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0172 ���� �����  .docx",
+    "customerName": "פיפו פייפר אחזקות בע\"מ",
+    "customerNo": "17174",
+    "address": "נתניה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0173 �����  .docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "address": "כפר ויתקין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0174 �����  .docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "customerNo": "14171",
+    "address": "כפר ויתקין",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0175 �����  .docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "customerNo": "14171",
+    "address": "כפר ויתקין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0176 �����  .docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "customerNo": "14171",
+    "address": "כפר ויתקין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0177 ������ ����   .docx",
+    "customerName": "גבינות הכפר בע\"מ",
+    "customerNo": "11092",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0178 ����   .docx",
+    "customerName": "סטיל רולינג קורפוריישן טיקו בע\"מ",
+    "customerNo": "510792153",
+    "address": "מגדל העמק",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0179 ��������   .docx",
+    "customerName": "דרייסטון בע\"מ",
+    "customerNo": "515818870",
+    "capacity": 50,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0180 �����   .docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "address": "מעונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0181 �����   .docx",
+    "customerName": "טבעפוסט בע\"מ",
+    "customerNo": "512697525",
+    "address": "חוות רמו",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0182 ������   .docx",
+    "customerName": "שטראוס מים בע\"מ",
+    "customerNo": "19528",
+    "address": "אור יהודה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0183 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0184 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0185 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0186 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0187 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0188 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0189 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0190 �������   .docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "החרושת 17 אזור תעשייה קרית מלאכי 8305882",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0191 �������   .docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "החרושת 17 אזור תעשייה קרית מלאכי 8305882",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0192 �������   .docx",
+    "customerName": "שייקביץ מוצרי בשר",
+    "customerNo": "17012",
+    "address": "כפר חבד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0193 �������   .docx",
+    "customerName": "שייקביץ מוצרי בשר",
+    "customerNo": "17012",
+    "address": "כפר חבד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0194 �������   .docx",
+    "customerName": "שייקביץ מוצרי בשר",
+    "customerNo": "17012",
+    "address": "כפר חבד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0195 �������   .docx",
+    "customerName": "שייקביץ מוצרי בשר",
+    "customerNo": "17012",
+    "address": "כפר חבד",
+    "accuracyCls": "III",
+    "testDate": "1904-11-30T21:39:20.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0196 �������   .docx",
+    "customerName": "שייקביץ מוצרי בשר",
+    "customerNo": "17012",
+    "address": "כפר חבד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0197 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0198 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0199 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0200 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0201 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0202 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0203 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0204 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0205 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0206 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0207 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0208 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0209 �����   .docx",
+    "customerName": "אומגה תעשיות יצירה (1993) בע\"מ",
+    "customerNo": "511906117",
+    "address": "קיבוץ כפר גליקסון 3781500",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0210 ����   .docx",
+    "customerName": "בר- מן תעשיות מזון קפה ותבלינים בע\"מ",
+    "customerNo": "13453",
+    "address": "העוצמה 8 עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0211 ����   .docx",
+    "customerName": "בר- מן תעשיות מזון קפה ותבלינים בע\"מ",
+    "customerNo": "13453",
+    "address": "העוצמה 8 עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0212 ������   .docx",
+    "customerName": "רוקחמן בע\"מ",
+    "customerNo": "18750",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0213 ������   .docx",
+    "customerName": "רוקחמן בע\"מ",
+    "customerNo": "18750",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0214 ����   .docx",
+    "customerName": "של-גל מזון בע\"מ",
+    "customerNo": "19151",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0215 �'�����   .docx",
+    "customerName": "ג'יפליי מבית גיל תייר בע\"מ",
+    "address": "נווה ימין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0216 �����   .docx",
+    "customerName": "סגלגל בע\"מ",
+    "customerNo": "19757",
+    "address": "סתריה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0217 �����   .docx",
+    "customerName": "סגלגל בע\"מ",
+    "customerNo": "19757",
+    "address": "סתריה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0218 �����   .docx",
+    "customerName": "סגלגל בע\"מ",
+    "customerNo": "19757",
+    "address": "סתריה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0219 ���� �������   .docx",
+    "customerName": "רוני סלוניקי יצור ויצוא סבונים בע\"מ",
+    "customerNo": "515904225",
+    "address": "המרכבה 7 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0220 ���� �������   .docx",
+    "customerName": "רוני סלוניקי יצור ויצוא סבונים בע\"מ",
+    "address": "המרכבה 7 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0221 ���� �������   .docx",
+    "customerName": "רוני סלוניקי יצור ויצוא סבונים בע\"מ",
+    "address": "המרכבה 7 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0222 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0223 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0224 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0225 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0226 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0227 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0228 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0229 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0230 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0231 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0232 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0233 �����   .docx",
+    "customerName": "תעשיות תפוגן בע\"מ",
+    "customerNo": "19597",
+    "address": "ת.ד 571 שדרות 80150",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0234 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0235 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0236 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0237 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0238 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0239 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0240 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0241 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0242 ��� �����   .docx",
+    "customerName": "מדי מעדני הים התיכון בע\"מ",
+    "customerNo": "516060902",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0243 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0244 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0245 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0246 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0247 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0248 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0249 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0250 ����   .docx",
+    "customerName": "מימה מזון בע\"מ",
+    "customerNo": "11724",
+    "address": "הצורף 11 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0251 �����   .docx",
+    "customerName": "גאוזי בע\"מ",
+    "customerNo": "11314",
+    "address": "התחיה 14 תל אביב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0252 ����   .docx",
+    "customerName": "אבקו שילוב מערכות בע\"מ",
+    "customerNo": "510709868",
+    "address": "יבנה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0253 ����   .docx",
+    "customerName": "אבקו שילוב מערכות בע\"מ",
+    "customerNo": "510709868",
+    "address": "יבנה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0254 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0255 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0256 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0257 ����������   .docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0258 ��� ��� ���   .docx",
+    "customerName": "רום גני זהב בע\"מ",
+    "customerNo": "11258",
+    "address": "פתח תקווה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0259 ������.docx",
+    "customerName": "דיפוכם ייצור בע\"מ",
+    "customerNo": "16767",
+    "address": "תנובה 2 אזור תעשייה באר טוביה 70900",
+    "capacity": 51,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0260 ������.docx",
+    "customerName": "דיפוכם ייצור בע\"מ",
+    "customerNo": "16767",
+    "address": "תנובה 2 אזור תעשייה באר טוביה 70900",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0261 ������.docx",
+    "customerName": "דיפוכם ייצור בע\"מ",
+    "customerNo": "16767",
+    "address": "תנובה 2 אזור תעשייה באר טוביה 70900",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0262 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0263 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0264 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0265 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0266 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0267 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0268 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0269 ���� �������.docx",
+    "customerName": "דגים מעושנים התקווה בע\"מ",
+    "customerNo": "11506",
+    "address": "הבושם 5 אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0270 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין 73199",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0271 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין 73199",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0272 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין 73199",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0273 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין",
+    "capacity": 41,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0274 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין 73199",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0275 ����.docx",
+    "customerName": "מוגה אינטרנשיונל (1989) בע\"מ",
+    "customerNo": "15377",
+    "address": "שקד 17 פארק חמן ת.ד. 162 חבל מודיעין 73199",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0276 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0277 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0278 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0279 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0280 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0281 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0282 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0283 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0284 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0285 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0286 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0287 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0288 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0289 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0290 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0291 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0292 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0293 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0294 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0295 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0296 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0297 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0298 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0299 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0300 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0301 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0302 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0303 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0304 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0305 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "capacity": 30,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0306 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "capacity": 30,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0307 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0308 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0309 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0310 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0311 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0312 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0313 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0314 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0315 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0316 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0317 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0318 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0319 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0320 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0321 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0322 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0323 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0324 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0325 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0326 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0327 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0328�� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0329 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0330 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0331 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0332 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0333 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0334 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0335 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "היצירה 15 א.ת עטרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0336 ���� ���.docx",
+    "customerName": "אחים כהן בשר ירושלים",
+    "customerNo": "557535101",
+    "address": "ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0337 ���� ���.docx",
+    "customerName": "אחים כהן בשר ירושלים",
+    "customerNo": "557535101",
+    "address": "היוזמה 18 ירושלים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0338 �'�.��.��. ������ ����.docx",
+    "customerName": "ג'י. אר. אי מיחזור ירוק ישראל בע\"מ",
+    "customerNo": "516240801",
+    "address": "בית רימון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0339 �'�.��.��. ������ ����.docx",
+    "customerName": "ג'י. אר. אי מיחזור ירוק ישראל בע\"מ",
+    "customerNo": "516240801",
+    "address": "בית רימון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0340 �'�.��.��. ������ ����.docx",
+    "customerName": "ג'י. אר. אי מיחזור ירוק ישראל בע\"מ",
+    "customerNo": "516240801",
+    "address": "בית רימון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0341 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0342 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0343 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0344 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0345  ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0345 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0346 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0347 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0348 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0349 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0350 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0351 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0352 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0353 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0354 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0355 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע כפר סבא",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0356 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע כפר סבא",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0357 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0358 ������.docx",
+    "customerName": "קונצפט לרוקחות בע\"מ",
+    "customerNo": "18207",
+    "address": "עתיר ידע 21 כפר סבא",
+    "phone": "09-7667890",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0359 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0360 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0361 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0362 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0363 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0364 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0365 ����.docx",
+    "customerName": "א. ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0366 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0367 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0368 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0369 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0370 ����.docx",
+    "customerName": "א. ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 א.ת. צפוני ת.ד. 12189 אשדוד",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0371 ����.docx",
+    "customerName": "א. ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 א.ת. צפוני ת.ד. 12189 אשדוד",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0372 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0373 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0374 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0375 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0376 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0377 ����.docx",
+    "customerName": "א. ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0378 ����.docx",
+    "customerName": "א. ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0379 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0380 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0381 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0382 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0383 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0384 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0385 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0386 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0387 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0388 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0389 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0390 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0391 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0392 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0393 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0394 ����.docx",
+    "customerName": "א.ל. ארמן ייצור תמרוקים בע\"מ",
+    "customerNo": "10029",
+    "address": "הפלדה 3 אזור תעשייה צפוני אשדוד",
+    "phone": "08-8568321",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0395 ����.docx",
+    "customerName": "עמית סחר ש.ג. בע\"מ",
+    "customerNo": "16525",
+    "address": "האורג 22 א.ת. ישן נתניה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0396 ���.docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "customerNo": "510534886",
+    "address": "מודיעין",
+    "capacity": 15,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0397 ���.docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "customerNo": "510534886",
+    "address": "מודיעין",
+    "capacity": 15,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0398 ���.docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "customerNo": "510534886",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0399 ���.docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "customerNo": "510534886",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0400 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0401 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0402 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0403 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0404 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0405 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0406 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0407 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0408 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0409 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0410 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0411 ������ �����.docx",
+    "customerName": "מאפיית אריאל בע\"מ",
+    "customerNo": "512036104",
+    "address": "חיפה",
+    "capacity": 50,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0412 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0413 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0414 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0415 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0416 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0417 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0418 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0419 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0420 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0421 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0422 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0423 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0424 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית קירור עצמונה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0425 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית אריזה עצמונה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0426 ������.docx",
+    "customerName": "קיבוץ עלומים",
+    "customerNo": "570018796",
+    "address": "בית אריזה עצמונה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0427 �������.docx",
+    "customerName": "מונאייר תעופה בע\"מ",
+    "customerNo": "19585",
+    "address": "שדה תעופה הרצליה",
+    "phone": "09-9587280",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0428 �������.docx",
+    "customerName": "מונאייר תעופה בע\"מ",
+    "customerNo": "19585",
+    "address": "שדה תעופה הרצליה",
+    "phone": "09-9587280",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0429 �������.docx",
+    "customerName": "מונאייר תעופה בע\"מ",
+    "customerNo": "19585",
+    "address": "שדה תעופה הרצליה",
+    "phone": "09-9587280",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0430 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0431 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0432 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0433 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0434 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0435 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0436 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0437 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0438 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0439 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0440 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0441 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0442 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0443 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0444 ����������.docx",
+    "customerName": "גרינאוניקס בע\"מ",
+    "address": "תל אביב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0445 ��� ������.docx",
+    "customerName": "ביו הרווסט בע\"מ",
+    "customerNo": "513930370",
+    "address": "רחובות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0446 ��������.docx",
+    "customerName": "נוסטלגיה שיווק קוויאר ודגים בע\"מ",
+    "customerNo": "15614",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0447 ����� ������.docx",
+    "customerName": "תומאס סייפטי בע\"מ",
+    "address": "חיפה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0448 �� �����.docx",
+    "customerName": "אם החיטה בע\"מ",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0449 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0450 �� �����.docx",
+    "customerName": "אם החיטה",
+    "customerNo": "10492",
+    "address": "רמת השרון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0451 ��� ������.docx",
+    "customerName": "סטי מוצרים בע\"מ",
+    "customerNo": "515335651",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0452 ��� ������.docx",
+    "customerName": "סטי מוצרים בע\"מ",
+    "customerNo": "515335651",
+    "address": "מעלה אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0453 ��� ����.docx",
+    "customerName": "הוד מעדן",
+    "customerNo": "10021",
+    "address": "נתניה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0454 ��� ����.docx",
+    "customerName": "הוד מעדן",
+    "customerNo": "10021",
+    "address": "נתניה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0455 ��� ����� ����.docx",
+    "customerName": "בית מרקחת הנגב בע\"מ",
+    "customerNo": "11031",
+    "address": "רח . קק\"ל באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0456 ���� �����.docx",
+    "customerName": "גורי עצמון שניר בע\"מ",
+    "customerNo": "11261",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0457 ���� �����.docx",
+    "customerName": "גורי עצמון שניר בע\"מ",
+    "customerNo": "11261",
+    "address": "ברקן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0458 ��� ��.docx",
+    "customerName": "אקו פט בע\"מ",
+    "customerNo": "515941706",
+    "address": "שדרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0459 �����.docx",
+    "customerName": "פלומה ים המלח בע\"מ",
+    "customerNo": "512779687",
+    "address": "אור עקיבא",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0460 ��. ���. �� ������.docx",
+    "customerName": "אי. איי. אם. מערכות ורכיבים (1999) בע\"מ",
+    "customerNo": "10135",
+    "address": "הסיבים 18 בניין אלון קומה 2 קריית מטלון פתח תקווה 49517",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0461 ������.docx",
+    "customerName": "מולינו בייקרי בע\"מ",
+    "customerNo": "516861697",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0462 ������.docx",
+    "customerName": "מולינו בייקרי בע\"מ",
+    "customerNo": "516861697",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0463 ������.docx",
+    "customerName": "מולינו בייקרי בע\"מ",
+    "customerNo": "516861697",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0464 ����������.docx",
+    "customerName": "אסטרוסקייל ישראל בע\"מ",
+    "customerNo": "516180486",
+    "address": "תל אביב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0465 �����.docx",
+    "customerName": "אלמנט 79 מיחזור בע\"מ",
+    "customerNo": "514958347",
+    "address": "ברקן",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0466 ����� �����.docx",
+    "customerName": "ש. ח. ציפוי אלחלד (2000) בע\"מ",
+    "customerNo": "512986423",
+    "address": "חיפה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0467 ������.docx",
+    "customerName": "סוביגל מכלולים 2017 בע\"מ",
+    "customerNo": "11777",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0468 ���������.docx",
+    "customerName": "פיירוואטר בע\"מ",
+    "customerNo": "516142411",
+    "address": "נתיבות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0469 ���������.docx",
+    "customerName": "פיירוואטר בע\"מ",
+    "customerNo": "516142411",
+    "address": "נתיבות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0470 �. �. ��.docx",
+    "customerName": "י. ג. גז בע\"מ",
+    "customerNo": "11353",
+    "address": "עין איילה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0471 �. �. ��.docx",
+    "customerName": "י. ג. גז בע\"מ",
+    "customerNo": "11353",
+    "address": "עין איילה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0472 �. �. ��.docx",
+    "customerName": "י. ג. גז בע\"מ",
+    "customerNo": "11353",
+    "address": "עין איילה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0473 ����� �����.docx",
+    "customerName": "א. א. בלוקי אלבנא בע\"מ",
+    "address": "כפר קאסם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0474 ����� �����.docx",
+    "customerName": "א. א. בלוקי אלבנא בע\"מ",
+    "address": "כפר קאסם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0475 ����� �����.docx",
+    "customerName": "א. א. בלוקי אלבנא בע\"מ",
+    "address": "כפר קאסם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0476 ����� �����.docx",
+    "customerName": "א. א. בלוקי אלבנא בע\"מ",
+    "address": "כפר קאסם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0477 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0478 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0479 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0480 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0481 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0482 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0483 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0484 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0485 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0486 �� ���.docx",
+    "customerName": "הרגיא חקלאות בע\"מ",
+    "customerNo": "517019683",
+    "address": "באר טוביה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0487 �� ����.docx",
+    "customerName": "מר קייק בע\"מ",
+    "customerNo": "16279",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0488 �� ����.docx",
+    "customerName": "מר קייק בע\"מ",
+    "customerNo": "16279",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0489 ��� �����.docx",
+    "customerName": "ד. עדן אחזקה תעופתית ומשאבי אנוש בע\"מ",
+    "customerNo": "19870",
+    "address": "מנחת מטוסים אשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0490 ��� �����.docx",
+    "customerName": "ד. עדן אחזקה תעופתית ומשאבי אנוש בע\"מ",
+    "customerNo": "19870",
+    "address": "מנחת מטוסים אשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0491 ��� �����.docx",
+    "customerName": "ד. עדן אחזקה תעופתית ומשאבי אנוש בע\"מ",
+    "customerNo": "19870",
+    "address": "מנחת מטוסים אשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0492 ������.docx",
+    "customerName": "אידכים בע\"מ",
+    "customerNo": "10800",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0493 ������.docx",
+    "customerName": "אידכים בע\"מ",
+    "customerNo": "10800",
+    "address": "התעשייה 12 רעננה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0494 ������.docx",
+    "customerName": "אידכים בע\"מ",
+    "customerNo": "10800",
+    "address": "התעשייה 12 רעננה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0495 ������.docx",
+    "customerName": "א י דכים בע\"מ",
+    "customerNo": "10800",
+    "address": "התעשייה 12 רעננה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0496 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0497 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0498 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0499 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0500 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0501 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0502 ��������.docx",
+    "customerName": "נטליין טכנולוגיות תקשורת ( אנ.סי.טי ) בע\"מ",
+    "customerNo": "12845",
+    "address": "דרך מנחם בגין 132, בניין עגול עזריאלי קומה 13 תל אביב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0503 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0504 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0505 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0506 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0507 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0508 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0509 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0510 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0511 ��������.docx",
+    "customerName": "יונימרקט בע\"מ",
+    "customerNo": "516213444",
+    "address": "חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0512 ��. ��. �������.docx",
+    "customerName": "פי. אץ. פרוטאין לאב בע\"מ",
+    "customerNo": "515900678",
+    "address": "ראש העין",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0513 ��. ��. �������.docx",
+    "customerName": "פי. אץ פרוטאין לאב בע\"מ",
+    "address": "המלאכה 6 ראש העין",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0514 ���� ���.docx",
+    "customerName": "טעים לנו יצור מזון ישראל (2003) בע\"מ",
+    "customerNo": "12479",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0515 ���� ���.docx",
+    "customerName": "טעים לנו יצור מזון ישראל (2003) בע\"מ",
+    "customerNo": "12479",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0516 ��� ��� �����.docx",
+    "customerName": "יקב רמת הגולן בע\"מ",
+    "customerNo": "510942840",
+    "address": "קצרין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0517 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0518 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0519 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0520 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0521 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0522 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0523 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0524 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0525 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0526 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0527 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "address": "עטרות ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0528 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0529 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0530 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0531 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0532 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0533 ����.docx",
+    "customerName": "ברקל תעשיות מזון בע\"מ",
+    "customerNo": "10758",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0534 �����.docx",
+    "customerName": "מינוס 417 מחקרים קוסמטיים ים המלח בע\"מ",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0535 �����.docx",
+    "customerName": "מינוס 417 מחקרים קוסמטיים ים המלח בע\"מ",
+    "customerNo": "513486621",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0536 ������ ����.docx",
+    "customerName": "מיחזור עולם בע\"מ",
+    "customerNo": "12097",
+    "address": "ת.ד. 573 יבנה 81104",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0537 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0538 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0539 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0540 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0541 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0542 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0543 �.�. �������.docx",
+    "customerName": "ח. י. ויטמינס בע\"מ",
+    "customerNo": "13829",
+    "address": "אזור תעשייה אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0544 �.�. �������.docx",
+    "customerName": "ח. י. ויטמינס בע\"מ",
+    "customerNo": "13829",
+    "address": "אזור תעשייה אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0545 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0546 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0547 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0548 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0549 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0550 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0551 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0552 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0553 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0554 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0555 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0556 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0557 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0558 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028 .",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0559 �������.docx",
+    "customerName": "תעשיות פילטונה בע\"מ",
+    "customerNo": "17028.",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0560 �����.docx",
+    "customerName": "פטרוס תעשיות (1985) בע\"מ",
+    "customerNo": "511080335",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0561 ���.docx",
+    "customerName": "תמר החברה הישראלית לחיצוב מתקדם בע\"מ",
+    "customerNo": "19557",
+    "address": "קיסריה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0562 ���.docx",
+    "customerName": "תמר החברה הישראלית לחיצוב מתקדם בע\"מ",
+    "customerNo": "19557",
+    "address": "קיסריה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0563 ���.docx",
+    "customerName": "תמר החברה הישראלית לחיצוב מתקדם בע\"מ",
+    "customerNo": "19557",
+    "address": "קיסריה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0564 ���.docx",
+    "customerName": "תמר החברה הישראלית לחיצוב מתקדם בע\"מ",
+    "customerNo": "19557",
+    "address": "קיסריה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0565 ������.docx",
+    "customerName": "גרינפלד וגרינטק ייצור תוספי תזונה בע\"מ",
+    "customerNo": "11399",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0566 ������.docx",
+    "customerName": "גרינפלד וגרינטק ייצור תוספי תזונה בע\"מ",
+    "customerNo": "11399",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0567 ������.docx",
+    "customerName": "גרינפלד וגרינטק ייצור תוספי תזונה בע\"מ",
+    "customerNo": "11399",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0568 ������.docx",
+    "customerName": "גרינפלד וגרינטק ייצור תוספי תזונה בע\"מ",
+    "customerNo": "11399",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0569 ������.docx",
+    "customerName": "גרינפלד וגרינטק ייצור תוספי תזונה בע\"מ",
+    "customerNo": "11399",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0570 ������.docx",
+    "customerName": "ברלייט בע\"מ",
+    "customerNo": "515024461",
+    "address": "להבות חביבה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0571 ������.docx",
+    "customerName": "ברלייט בע\"מ",
+    "customerNo": "515024461",
+    "address": "להבות חביבה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0572 ������.docx",
+    "customerName": "ברלייט בע\"מ",
+    "customerNo": "515024461",
+    "address": "להבות חביבה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0573 ������.docx",
+    "customerName": "ברלייט בע\"מ",
+    "customerNo": "515024461",
+    "address": "להבות חביבה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0574 ����� ����.docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "משק 77 מושב שדה משה 79355",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0575 ����� ����.docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "משק 77 מושב שדה משה 79355",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0576 ����� ����.docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "משק 77 מושב שדה משה 79355",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0577 ����� ����.docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "משק 77 מושב שדה משה 79355",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0578 ����� ����.docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "משק 77 מושב שדה משה 79355",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0579 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0580 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0581 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "ת.ד 169 יבנה 8122447",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0582 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "נחל שניר 10 יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0583 ����������.docx",
+    "customerName": "אירונאוטיקס בע\"מ",
+    "customerNo": "10172",
+    "address": "יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0584 ����.docx",
+    "customerName": "שרותי בריאות כללית – בית חולים מאיר",
+    "customerNo": "19040",
+    "address": "כפר סבא",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0585 �������.docx",
+    "customerName": "פנחס היישריק בע\"מ",
+    "customerNo": "12265",
+    "address": "א.ת. ברקן",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0586 �. ���.docx",
+    "customerName": "ג. דגן בע\"מ",
+    "customerNo": "11184",
+    "address": "נאות הכיכר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0587 ����� ��� �����.docx",
+    "customerName": "אטליז סמי",
+    "customerNo": "14905",
+    "address": "רמלה",
+    "accuracyCls": "III",
+    "testDate": "1904-11-30T21:39:20.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0588 ����� ��� �����.docx",
+    "customerName": "אטליז סמי",
+    "customerNo": "14905",
+    "address": "רמלה",
+    "accuracyCls": "III",
+    "testDate": "1904-11-30T21:39:20.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0589 �. ���.docx",
+    "customerName": "ג. דגן בע\"מ",
+    "customerNo": "11184",
+    "address": "נאות הכיכר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0590 �. ���.docx",
+    "customerName": "ג. דגן בע\"מ",
+    "customerNo": "11184",
+    "address": "נאות הכיכר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0591 �� �����.docx",
+    "customerName": "זר הייטק (1976) בע\"מ",
+    "customerNo": "13109",
+    "address": "א.ת. פארק שורק 3 בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0592 �� �����.docx",
+    "customerName": "זר הייטק (1976) בע\"מ",
+    "customerNo": "13109",
+    "address": "א.ת. פארק שורק 3 בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0593 �� �����.docx",
+    "customerName": "זר הייטק (1976) בע\"מ",
+    "customerNo": "13109",
+    "address": "א.ת. פארק שורק 3 בית שמש",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0594 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0595 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0596 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0597 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0598 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0599 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0600 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0601 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0602 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0603 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0604 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0605 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0606 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0607 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0608 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0609 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמ ש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0610 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמ ש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0611 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0612 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0613 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0614 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0615 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0616 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 אזור תעשייה מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0617 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0618 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0619 �����.docx",
+    "customerName": "ארומה אספרסו בר בע\"מ",
+    "customerNo": "14087",
+    "address": "הסוללה 7 א.ת. מערבי בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0620 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0621 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0622 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0623 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0624 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0625 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0626 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0627 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0628 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0629 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0630 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0631 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0632 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0633 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0634 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0635 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0636 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "unit": "g",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0637 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0638 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0639 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0640 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים - בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0641 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים - בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0642 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0643 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0644 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0645 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0646 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0647 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0648 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0649 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0650 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0651 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0652 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "phone": "03-9067744",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0653 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0654 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0655 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0656 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0657 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0658 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "phone": "03-9067744",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0659 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0660 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0661 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0662 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0663 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0664 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0665 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0666 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0667 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0668 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0669 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0670 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0671 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0672 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0673 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0674 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0675 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0676 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0677 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0678 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0679 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0680 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0681 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0682 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0683 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0684 ���� ����.docx",
+    "customerName": "סלטי שמיר 2006 בע\"מ",
+    "customerNo": "513789818",
+    "address": "מפעל דגים – בית שמש",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0685 �� ��.docx",
+    "customerName": "דן פל",
+    "customerNo": "11537",
+    "address": "קיבוץ דן",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0686 ��������.docx",
+    "customerName": "אינטרגאטה תעשיות מזון (1999) בע\"מ",
+    "address": "שדרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0687 ��������.docx",
+    "customerName": "אינטרגאטה תעשיות מזון (1999) בע\"מ",
+    "address": "שדרות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0688 ������.docx",
+    "customerName": "פריגור כימיקלים הע\"מ",
+    "address": "גשר העץ 36 פארק תעשייה עמק חפר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0689 ������.docx",
+    "customerName": "פריגור כימיקלים בע\"מ",
+    "customerNo": "17216",
+    "address": "גשר העץ 36 פארק התעשייה עמק חפר",
+    "accuracyCls": "III",
+    "testDate": "2004-12-01T22:00:00.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0690 ������� ����.docx",
+    "customerName": "מלונות פתאל בע\"מ",
+    "customerNo": "19054",
+    "address": "לאונרדו קלאב ים המלח",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0691 ��� �����.docx",
+    "customerName": "גד\"ש מבורך ובניו בע\"מ",
+    "customerNo": "19450",
+    "address": "גבעת כח",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0692 ��� �����.docx",
+    "customerName": "גד\"ש מבורך ובניו בע\"מ",
+    "customerNo": "19450",
+    "address": "גבעת כח",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0693 ��� �����.docx",
+    "customerName": "גד\"ש מבורך ובניו בע\"מ",
+    "customerNo": "19450",
+    "address": "גבעת כח",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0694 ��� �����.docx",
+    "customerName": "גד\"ש מבורך ובניו בע\"מ",
+    "customerNo": "19450",
+    "address": "גבעת כח",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0695 ��� �����.docx",
+    "customerName": "ניר נ. סלטים בע\"מ",
+    "customerNo": "516291358",
+    "address": "החרושת 19 קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0696 ��� �����.docx",
+    "customerName": "ניר נ. סלטים בע\"מ",
+    "customerNo": "516291358",
+    "address": "החרושת 19 קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0697 ��� �����.docx",
+    "customerName": "ניר נ. סלטים בע\"מ",
+    "customerNo": "516291358",
+    "address": "החרושת 19 קרית מלאכי",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0698 �� ��� ���.docx",
+    "customerName": "סי. אוף. ספא מעבדות ים המלח בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0699 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0700 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0701 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0702 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0703 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0704 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0705 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0706 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0707 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0708 �� ��� ���.docx",
+    "customerName": "סי אוף ספא מעבדות בע\"מ",
+    "customerNo": "10690",
+    "address": "הפלדה 22 ערד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0709 ��� ��� ����.docx",
+    "customerName": "משי הוד ועוד (עסקי מזון) בע\"מ",
+    "customerNo": "16662",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0710 ��� ��� ����.docx",
+    "customerName": "משי הוד ועוד (עסקי מזון) בע\"מ",
+    "customerNo": "16662",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0711 ��� ��� ����.docx",
+    "customerName": "משי הוד ועוד (עסקי מזון) בע\"מ",
+    "customerNo": "16662",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0712 ��� ��� ����.docx",
+    "customerName": "משי הוד ועוד (עסקי מזון) בע\"מ",
+    "customerNo": "16662",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0713 ��� ��� ����.docx",
+    "customerName": "משי הוד ועוד (עסקי מזון) בע\"מ",
+    "customerNo": "16662",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0714 �����.docx",
+    "customerName": "המשקם בע\"מ",
+    "address": "ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0715 �����.docx",
+    "customerName": "המשקם בע\"מ",
+    "address": "ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0716 �����.docx",
+    "customerName": "המשקם בע\"מ",
+    "address": "ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0717 ����� �����.docx",
+    "customerName": "אולמי הברון וגני הברון בע\"מ",
+    "customerNo": "14801",
+    "address": "צה\"ל 1 אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0718 ����� �����.docx",
+    "customerName": "אולמי הברון וגני הברון בע\"מ",
+    "customerNo": "14801",
+    "address": "צה\"ל 1 אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0719 ����� �����.docx",
+    "customerName": "אולמי הברון וגני הברון בע\"מ",
+    "customerNo": "14801",
+    "address": "צה\"ל 1 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0720 ����� �����.docx",
+    "customerName": "אולמי הברון וגני הברון בע\"מ",
+    "customerNo": "14801",
+    "address": "צה\"ל 1 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0721 �����.docx",
+    "customerName": "ברוול בע\"מ",
+    "customerNo": "515504892",
+    "address": "רחובות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0722 ���.docx",
+    "customerName": "מתקני פסגות בע\"מ",
+    "customerNo": "14304",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0723 ����'�.docx",
+    "customerName": "בלוג'ן בע\"מ",
+    "customerNo": "511325326",
+    "address": "עכו",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0724 ����� �����.docx",
+    "customerName": "ווישיי ישראל בע\"מ .",
+    "customerNo": "12632",
+    "address": "נחל הצבי 4, מגדל העמק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0725 ��������.docx",
+    "customerName": "נוסטלגיה שיווק קוויאר ודגים בע\"מ",
+    "customerNo": "15614",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0726 ��� ����.docx",
+    "customerName": "דלי קייט קלאס קייטרינג בע\"מ",
+    "customerNo": "11589",
+    "address": "א. תעשייה תימורים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0727 ��� ����.docx",
+    "customerName": "דלי קייט קלאס קייטרינג בע\"מ",
+    "customerNo": "11589",
+    "address": "א. תעשייה תימורים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0728 ��� ����.docx",
+    "customerName": "דלי קייט קלאס קייטרינג בע\"מ",
+    "customerNo": "11589",
+    "address": "א. תעשייה תימורים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0729 ��� ����� �� ����.docx",
+    "customerName": "בית מרקחת \"בר אילן\"",
+    "customerNo": "10633",
+    "address": "רעננה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0730 ���� ������.docx",
+    "customerName": "כרמל מוצרים טבעיים בע\"מ",
+    "customerNo": "14829",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0731 ���� ������.docx",
+    "customerName": "כרמל מוצרים טבעיים בע\"מ",
+    "customerNo": "14829",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0732 ���� ������.docx",
+    "customerName": "כרמל מוצרים טבעיים בע\"מ",
+    "customerNo": "14829",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0733 ���� ������.docx",
+    "customerName": "כרמל מוצרים טבעיים בע\"מ",
+    "customerNo": "14829",
+    "address": "זכרון יעקב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0734 ��� ������.docx",
+    "customerName": "מרכז שרות גיל סיידון בע\"מ",
+    "address": "רעננה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0735 �������� ������.docx",
+    "customerName": "יוניברסל משאיות ישראל בע\"מ",
+    "customerNo": "17968",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0736 �������� ������.docx",
+    "customerName": "יוניברסל משאיות ישראל בע\"מ",
+    "customerNo": "17968",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0737 ���� ���� ������.docx",
+    "customerName": "תומר מושב עובדים להתישבות חקלאית שיתופית בע\"מ",
+    "customerNo": "10594",
+    "address": "מושב תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0738 ���� ���� ������.docx",
+    "customerName": "תומר מושב עובדים להתישבות חקלאית שיתופית בע\"מ",
+    "customerNo": "10594",
+    "address": "מושב תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0739 ���� ���� ������.docx",
+    "customerName": "תומר מושב עובדים להתישבות חקלאית שיתופית בע\"מ",
+    "customerNo": "10594",
+    "address": "מושב תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0740 ���� ����� �����.docx",
+    "customerName": "דיין מוצרי קירור בע\"מ",
+    "customerNo": "11969",
+    "address": "הסדנא 26 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0741 ���� ����� �����.docx",
+    "customerName": "דיין מוצרי קירור בע\"מ",
+    "customerNo": "11969",
+    "address": "הסדנא 26 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0742 ���� ����� �����.docx",
+    "customerName": "דיין מוצרי קירור בע\"מ",
+    "customerNo": "11969",
+    "address": "הסדנא 26 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0743 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0744 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0745 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0746 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "capacity": 51,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0747 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0748 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "ד.נ ערבה, תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0749 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0750 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0751 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0752 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0753 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0754 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0755 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0756 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0757 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0758 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0759 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0760 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0761 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0762 ����� ����.docx",
+    "customerName": "רימון ביאר בע\"מ",
+    "customerNo": "516184223",
+    "address": "תומר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0763 �����.docx",
+    "customerName": "כרמית תעשיות ממתקים בע\"מ",
+    "customerNo": "14868",
+    "address": "א.ת. ציפורית",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0764 ������.docx",
+    "customerName": "לפידות הרמה ומסחר בע''מ",
+    "customerNo": "512840661",
+    "address": "חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0765 ��. ���. ��.docx",
+    "customerName": "אי. איי. אם. מערכות ורכיבים (1999) בע\"מ",
+    "customerNo": "10135",
+    "address": "הסיבים 18 בניין אלון קומה 2 קריית מטלון פתח תקווה 49517",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0766 ��. ���. ��.docx",
+    "customerName": "אי. איי. אם. מערכות ורכיבים (1999) בע\"מ",
+    "customerNo": "10135",
+    "address": "הסיבים 18 בניין אלון קומה 2 קריית מטלון פתח תקווה 49517",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0767 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "customerNo": "10146",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0768 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "address": "צלע ההר 36 מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0769 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "customerNo": "10146",
+    "address": "מודיעין",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0770 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "customerNo": "10146",
+    "address": "סייפן 1 נתב\"ג",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0771 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "customerNo": "10146",
+    "address": "סייפן 1 נתב\"ג",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0772 ��. ��. ��.docx",
+    "customerName": "או. פי. אס. איי (שינוע בינלאומי) בע\"מ",
+    "customerNo": "10146",
+    "address": "סייפן 1 נתב\"ג",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0773 ������.docx",
+    "customerName": "איסורד בע\"מ",
+    "customerNo": "10835",
+    "address": "נחל שורק, יבנה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0774 �����.docx",
+    "customerName": "מאירי טכנולוגיות מתקדמות לתשתיות בע\"מ",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0775 �����.docx",
+    "customerName": "מאירי טכנולוגיות מתקדמות לתשתיות בע\"מ",
+    "customerNo": "510215247",
+    "address": "פתח תקווה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0776 �����.docx",
+    "customerName": "מאירי טכנולוגיות מתקדמות לתשתיות בע\"מ",
+    "customerNo": "510215247",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0777 �� ����.docx",
+    "customerName": "דן פארם בע\"מ",
+    "customerNo": "19824",
+    "address": "באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0778 �� ����.docx",
+    "customerName": "דן פארם בע\"מ",
+    "customerNo": "19824",
+    "address": "באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0779 �� ����.docx",
+    "customerName": "דן פארם בע\"מ",
+    "customerNo": "19824",
+    "address": "באר שבע",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0780 �� ����.docx",
+    "customerName": "דן פארם בע\"מ",
+    "customerNo": "19824",
+    "address": "הבדיל 6/34 ת.ד. 6287 באר שבע 84162",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0781 �� ����.docx",
+    "customerName": "דן פארם בע\"מ",
+    "customerNo": "19824",
+    "address": "הבדיל 6/34 ת.ד. 6287 באר שבע 84162",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0782 �� ����������.docx",
+    "customerName": "דר טכנולוגיות בע\"מ",
+    "customerNo": "512029505",
+    "address": "המרכבה 19 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0783 �� ����������.docx",
+    "customerName": "דר טכנולוגיות בע\"מ",
+    "customerNo": "512029505",
+    "address": "המרכבה 19 חולון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0784 �� ����������.docx",
+    "customerName": "דר טכנולוגיות בע\"מ",
+    "customerNo": "512029505",
+    "address": "המרכבה 19 חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0785 ���� ����.docx",
+    "customerName": "טחנת האבן תעשיות בע\"מ",
+    "customerNo": "515988632",
+    "address": "מגדל העמק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0786 ���� ����.docx",
+    "customerName": "טחנת האבן תעשיות בע\"מ",
+    "customerNo": "515988632",
+    "address": "מגדל העמק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0787 ���� ����.docx",
+    "customerName": "טחנת האבן תעשיות בע\"מ",
+    "customerNo": "515988632",
+    "address": "מגדל העמק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0788 ���� ����.docx",
+    "customerName": "טחנת האבן תעשיות בע\"מ",
+    "customerNo": "515988632",
+    "address": "מגדל העמק",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0789 �����.docx",
+    "customerName": "מרינה פטריות הגליל בע\"מ",
+    "customerNo": "14171",
+    "address": "מעונה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0790 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0791 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0792 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0793 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0794 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0795 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "כפר מנחם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0796 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "כפר מנחם",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0797 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0798 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0799 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "כפר מנחם",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0800 �������.docx",
+    "customerName": "היירקופ סוכנויות בע\"מ",
+    "customerNo": "12077",
+    "address": "קרית מלאכי",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0801 ����.docx",
+    "customerName": "יומןטאצ ' כירורגי בע\"מ",
+    "customerNo": "517074035",
+    "address": "כפר נטר",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0802 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0803 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0804 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0805 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0806 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0807 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0808 ���� ������.docx",
+    "customerName": "דפנה תעשיות א. מ. בע\"מ",
+    "customerNo": "11998",
+    "address": "פריז 4 שדרות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0809 ���� ����.docx",
+    "customerName": "אסלי עמוס בע\"מ",
+    "customerNo": "16772",
+    "address": "המחקר 1 א.ת. צפוני אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0810 ���� ����.docx",
+    "customerName": "אסלי עמוס בע\"מ",
+    "customerNo": "16772",
+    "address": "המחקר 1 א.ת. צפוני אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0811 ���� ����.docx",
+    "customerName": "אסלי עמוס בע\"מ",
+    "customerNo": "16772",
+    "address": "המחקר 1 א.ת. צפוני אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0812 ���� ����.docx",
+    "customerName": "אסלי עמוס בע\"מ",
+    "customerNo": "16772",
+    "address": "המחקר 1 א.ת. צפוני אשדוד",
+    "accuracyCls": "III",
+    "testDate": "1904-11-30T21:39:20.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0813 ���� ����.docx",
+    "customerName": "אסלי עמוס בע\"מ",
+    "customerNo": "16772",
+    "address": "המחקר 1 א.ת. צפוני אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0814 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0815 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "capacity": 50,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0816 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0817 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0818 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0819 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0820 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0821 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0822 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0823 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0824 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0825 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0826 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0827 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0828 ��� �����.docx",
+    "customerName": "גבינות משק יעקבס בע\"מ",
+    "customerNo": "17761",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0829 ����������.docx",
+    "customerName": "אלגטכנולוג'ס (1998) בע\"מ",
+    "customerNo": "10486",
+    "address": "קטורה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0830 ����.docx",
+    "customerName": "הרלן מעבדות ישראל בע\"מ",
+    "customerNo": "12034",
+    "address": "ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0831 ��� �����.docx",
+    "customerName": "משק זרעים כהן",
+    "customerNo": "17669",
+    "address": "מושב עין הבשור",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0832 ��� �����.docx",
+    "customerName": "משק זרעים כהן",
+    "customerNo": "17669",
+    "address": "מושב עין הבשור",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0833 ��� �����.docx",
+    "customerName": "משק זרעים כהן",
+    "customerNo": "17669",
+    "address": "מושב עין הבשור",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0834 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "הפלדה 4 א.ת. עמק שרה באר שבע 84200",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0835 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "ירושלים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0836 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "ירושלים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0837 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0838 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0839 ���������.docx",
+    "customerName": "אופנהיימר יצור ושיווק בע\"מ",
+    "customerNo": "10147",
+    "address": "ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0840 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0841 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0842 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0843 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0844 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0845 ����� ����.docx",
+    "customerName": "גורמה ארוחות בע\"מ - ליאב",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0846 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0847 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0848 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0849 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0850 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0851 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0852 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0853 ����� .docx",
+    "customerName": "גורמה ארוחות בע\"מ",
+    "customerNo": "514300557",
+    "address": "מחסן ראשי העופרת 2 ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0854 �. ��� .docx",
+    "customerName": "ב. הקר בע\"מ",
+    "customerNo": "12701",
+    "address": "ירושלים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0855 ��� ����� .docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0856 ��� ����� .docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0857 ��� ����� .docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0858 ����� .docx",
+    "customerName": "סמארט פלמברס",
+    "customerNo": "025206970",
+    "address": "הנוטע 1 נתניה",
+    "capacity": 210,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0859 ��� ����� .docx",
+    "customerName": "סיגמה-אולדריץ ישראל בע\"מ",
+    "customerNo": "14304",
+    "address": "רחובות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0860 ����� .docx",
+    "customerName": "אלביט מערכות בע\"מ",
+    "customerNo": "10059",
+    "address": "כרמיאל",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0861 ����� .docx",
+    "customerName": "אלביט מערכות בע\"מ",
+    "customerNo": "10059",
+    "address": "כרמיאל",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0862 ����� ����� .docx",
+    "customerName": "KT ייבוא ושיווק בע\"מ",
+    "customerNo": "18153",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0863 ����� ����� .docx",
+    "customerName": "KT ייבוא ושיווק בע\"מ",
+    "customerNo": "18153",
+    "address": "אשדוד",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0864 ����� ����� .docx",
+    "customerName": "KT ייבוא ושיווק בע\"מ",
+    "customerNo": "18153",
+    "address": "אשדוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0865 ����� ����� .docx",
+    "customerName": "KT ייבוא ושיווק בע\"מ",
+    "customerNo": "18153",
+    "address": "אשדוד",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0866 ����� ����� .docx",
+    "customerName": "KT ייבוא ושיווק בע\"מ",
+    "customerNo": "18153",
+    "address": "אשדוד",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0867 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "12845",
+    "address": "מישור אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0868 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0869 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0870 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0871 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0872 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0873 ������� ����� .docx",
+    "customerName": "ביכורים מזון ומאפה בע\"מ",
+    "customerNo": "10293",
+    "address": "מישור אדומים",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0874 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0875 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0876 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0877 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0878 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "החרושת 12 מעלות",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0879 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "החרושת 12 מעלות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0880 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "החרושת 12 מעלות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0881 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0882 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0883 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0884 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "החרושת 12 מעלות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0885 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0886 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0887 ���� .docx",
+    "customerName": "מדשא תעשיות מזון בע\"מ",
+    "customerNo": "19682",
+    "address": "מעלות",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0888 ��� .docx",
+    "customerName": "ברט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0889 ��� .docx",
+    "customerName": "ברט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0890 ��� .docx",
+    "customerName": "ב ר ט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0891 ��� .docx",
+    "customerName": "ברט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0892 ��� .docx",
+    "customerName": "ב ר ט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0893 ��� .docx",
+    "customerName": "ב ר ט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0894 ��� .docx",
+    "customerName": "ב ר ט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0895 ��� .docx",
+    "customerName": "ב ר ט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0896 ��� .docx",
+    "customerName": "ברט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0897 ��� .docx",
+    "customerName": "ברט בע\"מ",
+    "customerNo": "19312",
+    "address": "האופן 3 פתח תקווה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0898 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0899 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0900 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0901 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0902 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0903 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0904 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "ורדון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0905 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "תימורים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0906 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "תימורים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0907 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "תימורים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0908 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "תימורים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0909 ����� .docx",
+    "customerName": "אביקם ז ינגר סחר ושיווק בע\"מ",
+    "customerNo": "13071",
+    "address": "תימורים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0910 ������ ���� .docx",
+    "customerName": "פרופיט אגרו בע\"מ",
+    "customerNo": "17308",
+    "address": "ירושלים 100 עפולה 1825100",
+    "capacity": 15,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0911 ������ ���� .docx",
+    "customerName": "פרופיט אגרו בע\"מ",
+    "customerNo": "17308",
+    "address": "ירושלים 100 עפולה 1825100",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0912 ������ ���� .docx",
+    "customerName": "פרופיט אגרו בע\"מ",
+    "customerNo": "17308",
+    "address": "ירושלים 100 עפולה 1825100",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0913 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0914 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0915 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0916 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0917 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0918 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0919 ���� ������ .docx",
+    "customerName": "דפוס אופסט עמנואל בע\"מ",
+    "customerNo": "11545",
+    "address": "קנר 7 בית עמנואל קומה 3 א.ת. חדש ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0920 ���� .docx",
+    "customerName": "אקטר בע\"מ",
+    "customerNo": "16302",
+    "address": "קרית גת",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0921 ���� �� .docx",
+    "customerName": "אורן מץ",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0922 ����� ���� .docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "שדה משה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0923 ����� ���� .docx",
+    "customerName": "יבולי הכפר בע\"מ",
+    "customerNo": "14532",
+    "address": "שדה משה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0924 ����� .docx",
+    "customerName": "י.ש. שיאון 2010 בע\"מ",
+    "customerNo": "19025",
+    "address": "אשקלון",
+    "capacity": 6000,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0925 ����� .docx",
+    "customerName": "י.ש. שיאון 2010 בע\"מ",
+    "customerNo": "19025",
+    "address": "אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0926 ����� .docx",
+    "customerName": "י.ש. שיאון 2010 בע\"מ",
+    "customerNo": "19025",
+    "address": "אשקלון",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0927 ����� .docx",
+    "customerName": "י.ש. שיאון 2010 בע\"מ",
+    "customerNo": "19025",
+    "address": "אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0928 ����� .docx",
+    "customerName": "י.ש. שיאון 2010 בע\"מ",
+    "customerNo": "19025",
+    "address": "אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0929 ������ .docx",
+    "customerName": "פריסבי בע\"מ",
+    "customerNo": "514845981",
+    "address": "המלאכה 6 לוד",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0930 ��� ���� .docx",
+    "customerName": "כל בו חצי חינם בע\"מ",
+    "customerNo": "16356",
+    "address": "פרופסור שור חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0931 ��� ���� .docx",
+    "customerName": "כל בו חצי חינם בע\"מ",
+    "customerNo": "16356",
+    "address": "פרופסור שור חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0932 ��� ���� .docx",
+    "customerName": "כל בו חצי חינם בע\"מ",
+    "customerNo": "16356",
+    "address": "פרופסור שור חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0933 ��� ���� .docx",
+    "customerName": "כל בו חצי חינם בע\"מ",
+    "customerNo": "16356",
+    "address": "פרופסור שור חולון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0934 ��� .docx",
+    "customerName": "פאב ייצור ויבוא ציוד תעשיתי בע\"מ",
+    "address": "מודיעין",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0935 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "address": "חוצות היוצר 29 אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0936 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "customerNo": "12838",
+    "address": "חוצות היוצר 29 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0937 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "customerNo": "12838",
+    "address": "חוצות היוצר 29 אשקלון",
+    "capacity": 15,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0938 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "customerNo": "12838",
+    "address": "חוצות היוצר 29 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0939 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "customerNo": "12838",
+    "address": "חוצות היוצר 29 אשקלון",
+    "capacity": 15,
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0940 ��. �'�. ��� ���� .docx",
+    "customerName": "טי. ג'י. איי תשתיות בע\"מ",
+    "address": "חוצות היוצר 29 אשקלון",
+    "capacity": 5000,
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0941 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "III",
+    "testDate": "1904-11-30T21:39:20.000Z"
+  },
+  {
+    "fileName": "��� ����� 25-0942 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0943 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר",
+    "customerNo": "15118",
+    "address": "אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0944 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר בע\"מ",
+    "customerNo": "15118",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0945 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0946 �'���� ����� ��� .docx",
+    "customerName": "ג'וליה מעדני בשר בע\"מ",
+    "customerNo": "15118",
+    "address": "הנפח 20 אשקלון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0947 ���� ������ .docx",
+    "customerName": "כאמל דואהריו ובניו בע\"מ",
+    "customerNo": "11749",
+    "address": "אזור תעשייה אלון תבור",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0948 ���� ������ .docx",
+    "customerName": "כאמל דואהריו ובניו בע\"מ",
+    "customerNo": "11749",
+    "address": "אזור תעשייה אלון תבור",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0949 ���� ������ .docx",
+    "customerName": "כאמל דואהריו ובניו בע\"מ",
+    "customerNo": "11749",
+    "address": "אזור תעשייה אלון תבור",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0950 ���� ������ .docx",
+    "customerName": "כאמל דואהריו ובניו בע\"מ",
+    "customerNo": "11749",
+    "address": "אזור תעשייה אלון תבור",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0951 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0952 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0953 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0954 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0955 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0956 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0957 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0958 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "I"
+  },
+  {
+    "fileName": "��� ����� 25-0959 ���� .docx",
+    "customerName": "ינון - חברה לייצור ושיווק מזון בע\"מ",
+    "customerNo": "511478331",
+    "address": "אלפי מנשה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0960 ���� .docx",
+    "customerName": "אקטר בע\"מ",
+    "customerNo": "16302",
+    "address": "קרית גת",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0961 ������ .docx",
+    "customerName": "פולוגן בע\"מ",
+    "customerNo": "513846626",
+    "address": "פתח תקווה",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0962 �� ���������� .docx",
+    "customerName": "גז טכנולוגיות או. בי. בע\"מ",
+    "address": "רמת חובב",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0963 �� ���������� .docx",
+    "customerName": "גז טכנולוגיות או. בי. בע\"מ",
+    "address": "רמת חובב",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0964 ������ .docx",
+    "customerName": "ליפשיץ שיווק ואספקת מוצרי בשר בע\"מ",
+    "customerNo": "513371823",
+    "address": "ראשון לציון",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0965 ������ .docx",
+    "customerName": "ליפשיץ שיווק ואספקת מוצרי בשר בע\"מ",
+    "customerNo": "513371823",
+    "address": "ראשון לציון",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0966 �.�.�.�. ���� ����.docx",
+    "customerName": "י. ע. ל. א. מזון קפוא בע\"מ",
+    "customerNo": "18955",
+    "address": "אופקים",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0967 �.�.�.�. ���� ���� .docx",
+    "customerName": "י. ע. ל. א. מזון קפוא בע\"מ",
+    "customerNo": "18955",
+    "address": "אופקים",
+    "accuracyCls": "II"
+  },
+  {
+    "fileName": "��� ����� 25-0968 ��� ��� ��� .docx",
+    "customerName": "בית בלב נשר",
+    "customerNo": "10648",
+    "address": "נשר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0969 ��� ��� ��� .docx",
+    "customerName": "בית בלב נשר",
+    "customerNo": "10648",
+    "address": "נשר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0970 ��� ��� ��� .docx",
+    "customerName": "בית בלב נשר",
+    "customerNo": "10648",
+    "address": "נשר",
+    "accuracyCls": "III"
+  },
+  {
+    "fileName": "��� ����� 25-0971 ��� ��� ��� .docx",
+    "customerName": "בית בלב נשר",
+    "customerNo": "10648",
+    "address": "נשר",
+    "accuracyCls": "III"
+  }
+]
