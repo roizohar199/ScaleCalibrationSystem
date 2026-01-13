@@ -18,7 +18,7 @@ type CertificatePdfModel = {
   }>;
 };
 
-export function buildCertificateHtml(model: CertificatePdfModel): string {
+export function buildCertificateHtml(model: CertificatePdfModel, options?: { reverseDataTables?: boolean; reverseMetaTables?: boolean }): string {
   console.log(`[buildCertificateHtml] Building HTML for certificate ${model.certificateNo}`);
   
   // Validate model
@@ -28,6 +28,9 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
   if (!model.title || !model.certificateNo || !model.customerName) {
     throw new Error("Certificate model missing required fields: title, certificateNo, customerName");
   }
+  
+  const reverseDataTables = options?.reverseDataTables ?? false;
+  const reverseMetaTables = options?.reverseMetaTables ?? false;
 
   // Get embedded font or use system fonts
   const fontDataUrl = getFontDataUrl();
@@ -42,22 +45,37 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
   const blocksTableHtml = model.blocks.length > 0 ? `
     <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
       <tbody>
-        ${model.blocks.map((b) => `
+        ${model.blocks.map((b) => {
+          if (reverseMetaTables) {
+            return `
           <tr>
             <td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top; white-space: pre-wrap; word-break: break-word;">${escapeHtml(b.value)}</td>
-            <td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">${escapeHtml(b.label)}</td>
+            <th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">${escapeHtml(b.label)}</th>
           </tr>
-        `).join("")}
+        `;
+          } else {
+            return `
+          <tr>
+            <th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">${escapeHtml(b.label)}</th>
+            <td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top; white-space: pre-wrap; word-break: break-word;">${escapeHtml(b.value)}</td>
+          </tr>
+        `;
+          }
+        }).join("")}
       </tbody>
     </table>
   ` : "";
 
   const tablesHtml = (model.tables ?? [])
     .map((t) => {
-      const head = t.columns
+      // Reverse columns and rows for RTL display only if reverseDataTables is true
+      const columns = reverseDataTables ? [...t.columns].reverse() : t.columns;
+      const rows = reverseDataTables ? t.rows.map(row => [...row].reverse()) : t.rows;
+      
+      const head = columns
         .map((c) => `<th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700;">${escapeHtml(c)}</th>`)
         .join("");
-      const body = t.rows
+      const body = rows
         .map(
           (r) =>
             `<tr>${r
@@ -205,14 +223,25 @@ export function buildCertificateHtml(model: CertificatePdfModel): string {
 
     <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
       <tbody>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.certificateNo)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">מספר תעודה</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.date)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">תאריך</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerName)}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">לקוח</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerId ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מס׳ לקוח</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleManufacturer ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">יצרן</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleModel ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">דגם</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleSerial ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">סידורי</td></tr>
-        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.location ?? "-")}</td><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מיקום</td></tr>
+        ${reverseMetaTables ? `
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.certificateNo)}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">מספר תעודה</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.date)}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">תאריך</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerName)}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">לקוח</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerId ?? "-")}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מס׳ לקוח</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleManufacturer ?? "-")}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">יצרן</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleModel ?? "-")}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">דגם</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleSerial ?? "-")}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">סידורי</th></tr>
+        <tr><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.location ?? "-")}</td><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מיקום</th></tr>
+        ` : `
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; width: 40%; vertical-align: top;">מספר תעודה</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.certificateNo)}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">תאריך</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.date)}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">לקוח</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerName)}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מס׳ לקוח</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.customerId ?? "-")}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">יצרן</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleManufacturer ?? "-")}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">דגם</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleModel ?? "-")}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">סידורי</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.scaleSerial ?? "-")}</td></tr>
+        <tr><th style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; background: #f9fafb; font-weight: 700; vertical-align: top;">מיקום</th><td style="border: 1px solid #e5e7eb; padding: 8px; text-align: right; direction: rtl; unicode-bidi: embed; vertical-align: top;">${escapeHtml(model.location ?? "-")}</td></tr>
+        `}
       </tbody>
     </table>
   </div>

@@ -279,11 +279,11 @@ export async function generateCertificateDOCX(calibration: any): Promise<Buffer>
       tables: tables.length > 0 ? tables : undefined
     };
 
-    // Generate HTML using the same template as PDF
+    // Generate HTML using the same template as PDF (with reverse for data tables)
     console.log(`[generateCertificateDOCX] Building HTML template...`);
     let html: string;
     try {
-      html = buildCertificateHtml(model);
+      html = buildCertificateHtml(model, { reverseDataTables: true, reverseMetaTables: true });
       console.log(`[generateCertificateDOCX] HTML template built successfully, length: ${html.length} chars`);
     } catch (htmlError: any) {
       console.error(`[generateCertificateDOCX] Error building HTML template:`, htmlError);

@@ -31,3 +31,7 @@ test-results/
 # Zip / temp
 *.zip
 *.rar
+
+# Certificates - calibration certificates should not be in git
+storage/certificates/
+certificates/
