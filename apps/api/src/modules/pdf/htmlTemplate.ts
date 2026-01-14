@@ -1,4 +1,5 @@
 import { getFontDataUrl, getFontFamily } from "./embeddedFont.js";
+import { getLogoDataUrl } from "./embeddedLogo.js";
 
 type CertificatePdfModel = {
   title: string;
@@ -18,7 +19,7 @@ type CertificatePdfModel = {
   }>;
 };
 
-export function buildCertificateHtml(model: CertificatePdfModel, options?: { reverseDataTables?: boolean; reverseMetaTables?: boolean }): string {
+export function buildCertificateHtml(model: CertificatePdfModel, options?: { reverseDataTables?: boolean; reverseMetaTables?: boolean; logoPosition?: 'pdf' | 'docx' }): string {
   console.log(`[buildCertificateHtml] Building HTML for certificate ${model.certificateNo}`);
   
   // Validate model
@@ -31,6 +32,7 @@ export function buildCertificateHtml(model: CertificatePdfModel, options?: { rev
   
   const reverseDataTables = options?.reverseDataTables ?? false;
   const reverseMetaTables = options?.reverseMetaTables ?? false;
+  const logoPosition = options?.logoPosition ?? 'pdf';
 
   // Get embedded font or use system fonts
   const fontDataUrl = getFontDataUrl();
@@ -40,6 +42,14 @@ export function buildCertificateHtml(model: CertificatePdfModel, options?: { rev
     console.log(`[buildCertificateHtml] Using embedded font (Base64 length: ${fontDataUrl.length})`);
   } else {
     console.log(`[buildCertificateHtml] Using system fonts: ${fontFamily}`);
+  }
+
+  // Get logo data URL
+  const logoDataUrl = getLogoDataUrl();
+  if (logoDataUrl) {
+    console.log(`[buildCertificateHtml] Logo found and will be included in certificate`);
+  } else {
+    console.log(`[buildCertificateHtml] Logo not found, certificate will be generated without logo`);
   }
 
   const blocksTableHtml = model.blocks.length > 0 ? `
@@ -128,6 +138,7 @@ export function buildCertificateHtml(model: CertificatePdfModel, options?: { rev
       -webkit-font-smoothing: antialiased;
       text-rendering: geometricPrecision;
       text-align: right;
+      position: relative;
     }
 
     .header {
@@ -137,9 +148,74 @@ export function buildCertificateHtml(model: CertificatePdfModel, options?: { rev
       border-bottom: 1px solid #ddd;
       padding-bottom: 12px;
       margin-bottom: 14px;
+      position: relative;
+      clear: both;
+    }
+    
+    ${logoDataUrl ? `
+    .header {
+      margin-top: ${logoPosition === 'pdf' ? '160px' : '0'};
+    }
+    ${logoPosition === 'docx' ? `
+    .companyInfo {
+      width: 100%;
+      text-align: center;
+      direction: rtl;
+      margin: 0;
+      padding: 0;
+      margin-bottom: 8px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    .companyInfo p {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .title {
+      text-align: center;
+    }
+    ` : `
+    .logoContainer {
+      left: 0;
+      padding-left: 10px;
+    }
+    `}
+    ` : ''}
+
+    .headerTop {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 8px;
+      width: 100%;
     }
 
-    .title { font-size: 18px; font-weight: 700; }
+    .logoContainer {
+      position: absolute;
+      top: -24px;
+      left: 0;
+      z-index: 10;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0;
+      padding: 0;
+      width: auto;
+      height: auto;
+    }
+
+    .logoContainer img {
+      max-height: 150px;
+      max-width: 300px;
+      height: auto;
+      width: auto;
+      object-fit: contain;
+      display: block;
+    }
+
+    .title { font-size: 18px; font-weight: 700; flex: 1; }
 
     .meta {
       display: grid;
@@ -218,8 +294,11 @@ export function buildCertificateHtml(model: CertificatePdfModel, options?: { rev
   </style>
 </head>
 <body>
+  ${logoPosition === 'docx' ? `<div class="companyInfo" style="text-align: center; direction: rtl;"><p style="text-align: center; margin: 0; padding: 0;">ניוטק איילון בע"מ</p><p style="text-align: center; margin: 0; padding: 0;">החרושת 12 כפר סבא</p><p style="text-align: center; margin: 0; padding: 0;">09-7666789</p></div>` : (logoDataUrl ? `<div class="logoContainer"><img src="${logoDataUrl}" alt="Logo" style="max-height: 150px; max-width: 300px; height: auto; width: auto; display: block;" /></div>` : '')}
   <div class="header">
-    <div class="title">${escapeHtml(model.title)}</div>
+    <div class="headerTop">
+      <div class="title">${escapeHtml(model.title)}</div>
+    </div>
 
     <table dir="rtl" style="width: 100%; border-collapse: collapse; direction: rtl; unicode-bidi: embed; margin-top: 8px; border: 1px solid #e5e7eb;">
       <tbody>

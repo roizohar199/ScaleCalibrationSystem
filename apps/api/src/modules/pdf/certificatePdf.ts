@@ -282,7 +282,7 @@ export async function generateCertificatePDF(calibration: any): Promise<Buffer> 
     console.log(`[generateCertificatePDF] Building HTML template...`);
     let html: string;
     try {
-      html = buildCertificateHtml(model);
+      html = buildCertificateHtml(model, { logoPosition: 'pdf' });
       console.log(`[generateCertificatePDF] HTML template built successfully, length: ${html.length} chars`);
     } catch (htmlError: any) {
       console.error(`[generateCertificatePDF] Error building HTML template:`, htmlError);
